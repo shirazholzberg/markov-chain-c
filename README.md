@@ -10,4 +10,3 @@ It was implemented as part of a programming course (C & C++) in The Hebrew Unive
 
 # How to Compile
 Use the provided `Makefile` (or compile manually if needed).
-To build both programs:
